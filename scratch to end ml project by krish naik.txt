@@ -1,0 +1,12 @@
+Agenda
+
+
+1- set up the github {repository}
+   a- new environment
+   b- add files in gut hub like README.md,.gitignore
+     i- install git bash and its location is C:\Program Files\Git
+     ii- push the files in github using git commdands
+     iii- create a  README.md file and .gitignore file in github/vscode
+     iv- 
+   b- setup.py
+   c- requirments.txt
